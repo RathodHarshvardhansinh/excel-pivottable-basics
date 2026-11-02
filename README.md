@@ -46,10 +46,6 @@ excel-pivottable-basics/
 ├── README.md
 ├── Superstore_PivotTables.xlsx
 ├── Superstore_Sample.csv
-├── screenshots/
-│   ├── 01_sales_by_category.png
-│   ├── 02_sales_by_region.png
-│   └── 03_sales_by_month.png
 └── insights.md
 ```
 
